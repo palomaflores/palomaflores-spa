@@ -9,6 +9,7 @@ Mi viaje de aprendizaje:
 - <b>Sistemas Operativos (Linux y Windows):</b> Estudio de administración, seguridad y funcionamiento interno.
 - <b>Inteligencia Artificial:</b> Investigación de algoritmos y aplicaciones para resolver problemas complejos.
 - <b>Kali Linux:</b> Profundizando conocimientos en pruebas de penetración y seguridad ofensiva.
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=palomaflores&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="150" alt="stats graph"  />
