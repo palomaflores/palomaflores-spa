@@ -14,12 +14,12 @@ Mi viaje de aprendizaje:
   <img src="https://github-readme-stats.vercel.app/api?username=palomaflores&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=palomaflores&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/a1/62/3a/a1623ab5fa588b28c3a4315450d981bc.gif"  />
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,git,ai,docker,windows,linux,kali,vscode&theme=light)](https://skillicons.dev)
-
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,git,ai,docker,windows,linux,kali,vscode&theme=dark)](https://skillicons.dev)
+</div>
 
 ### Conectate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5cb8ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paloma-floresm)
